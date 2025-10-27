@@ -1,4 +1,4 @@
-name: app_image
+name: flutter_image
 description: "A ready to use image widgets with caching and error handling capabilites."
 version: 0.0.1
 homepage:
